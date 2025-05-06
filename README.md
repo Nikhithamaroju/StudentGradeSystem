@@ -1,7 +1,14 @@
-# StudentGradeSystem
-This is a simple Java console application that allows:
-- Adding student names and marks
-- Calculating average
-- Displaying pass/fail results
+# Student Grade System 
+
+A simple Java application that:
+- Adds student names and marks
+- Shows all students with their grades (Pass/Fail)
+
+## Features
+- Menu-driven
+- Uses ArrayLists and user input
+- Calculates grades based on marks
+
 ## How to Run
-Compile and run the Java file using:
+1. Save the file as `StudentGradeSystem.java`
+2. Compile:
